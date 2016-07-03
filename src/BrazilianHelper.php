@@ -8,7 +8,7 @@ namespace germanoricardi\helpers;
 
 /*
  * To use it is very easy, see examples:
- * echo BrazilianHelper::states(); Return all states
+ * BrazilianHelper::states(); Return array with all states
  * echo BrazilianHelper::states($string); Return string with state name if exists
  * echo BrazilianHelper::asCep($string); Return string formatted || NULL if number of characters is greater than 8
  * echo BrazilianHelper::asCnpj($string); Return string formatted || NULL if number of characters is greater than 14
