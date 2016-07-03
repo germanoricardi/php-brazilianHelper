@@ -15,7 +15,7 @@
         "php cpf",
         "php cnpj",
         "php cep",
-        "extension",
+        "extension"
     ],
     "authors": [
         {
