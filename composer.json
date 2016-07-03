@@ -1,5 +1,5 @@
 {
-    "name": "germanoricardi/helpers/brazilian-helper",
+    "name": "germanoricardi/brazilian-helper",
     "description": "PHP extension with Brazilian states and formats for CPF, CNPJ and ZIP",
     "type": "php-extension",
     "license": "BSD-3-Clause",
@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "germanoricardi\\helpers\\brazilian-helper\\": "src"
+            "germanoricardi\\helpers\\": "src"
         }
     }
 }
