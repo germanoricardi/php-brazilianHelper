@@ -1,0 +1,35 @@
+{
+    "name": "germanoricardi/brazilian-helper",
+    "description": "PHP extension with Brazilian states and formats for CPF, CNPJ and ZIP",
+    "type": "php-extension",
+    "license": "BSD-3-Clause",
+    "keywords": [
+        "php",
+        "estados brasileiros",
+        "php estados brasileiros",
+        "php brasil"
+        "extensão",
+        "brazilian states",
+        "php brazilian states",
+        "php brazil",
+        "php cpf",
+        "php cnpj",
+        "php cep",
+        "extension",
+    ],
+    "authors": [
+        {
+            "name": "Germano Ricardi",
+            "email": "germanoricardi7@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5",
+    },
+    "autoload": {
+        "psr-4": {
+            "germanoricardi\\helpers\\brazilian-helper\\": "src"
+        }
+    },
+}
