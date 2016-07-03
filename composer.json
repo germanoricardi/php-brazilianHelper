@@ -30,7 +30,7 @@
     },
     "autoload": {
         "psr-4": {
-            "germanoricardi\\helpers\\brazilian-helper\\": "src"
+            "germanoricardi\\helpers\\": "brazilian-helper\\src"
         }
     }
 }
